@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SitiosTuristicos</string>
+    <string name="msgUsuario">Usuario</string>
+    <string name="msgClave">Clave</string>
+    <string name="msjInicio">Inicio</string>
+    <string name="text_sitios">Sitios</string>
+    <string name="text_mis_sitios">Mis Sitios</string>
+    <string name="perfil">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_sitio">Sitio</string>
+    <string name="text_mis_sitio">Mis Sitios</string>
+    <string name="text_perfil">Perfil</string>
+    <string name="content_description_media">sitio</string>
+    <string name="title">Sierra Nevada</string>
+    <string name="secondary_text">Sierra Nevada de Santa Marta - Magdalena colombia</string>
+    <string name="action_1">Mapa</string>
+</resources>
