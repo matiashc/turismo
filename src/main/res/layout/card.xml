@@ -19,6 +19,7 @@
             app:srcCompat="@drawable/santamarta"
             android:scaleType="centerCrop"
             android:contentDescription="@string/content_description_media"
+            android:id="@+id/imagen"
             />
 
         <LinearLayout
@@ -33,6 +34,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/title"
                 android:textAppearance="?attr/textAppearanceTitleMedium"
+                android:id="@+id/nombre"
                 />
             <TextView
                 android:layout_width="wrap_content"
@@ -41,6 +43,7 @@
                 android:text="@string/secondary_text"
                 android:textAppearance="?attr/textAppearanceBodyMedium"
                 android:textColor="?android:attr/textColorSecondary"
+                android:id="@+id/descripcion"
                 />
 
 
